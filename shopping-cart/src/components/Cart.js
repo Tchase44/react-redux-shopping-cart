@@ -44,3 +44,11 @@ const wrappedComponent = wrapperFunction(Cart)
 export default wrappedComponent
 //  ^^^ is the same as below ^^^
 // export default connect(mapStoreStateToComponentProps, mapDispatchToComponentProps)(Cart)
+
+
+
+
+
+
+
+
